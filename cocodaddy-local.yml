@@ -1,3 +1,2 @@
-spring:
-  config:
-    test: hello, werido tester!
+test:
+  key: what's up
