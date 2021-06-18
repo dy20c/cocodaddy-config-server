@@ -1,0 +1,3 @@
+spring:
+  config:
+    test: hello, werido tester!
